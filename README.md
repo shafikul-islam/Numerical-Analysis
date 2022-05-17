@@ -1,2 +1,3 @@
 # Numerical-Analysis
-Some numerical Methods performed in MATLAB
+In this repository I have added some Matlab Live scripts of Numerical Methods.
+

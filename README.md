@@ -1,5 +1,5 @@
 # Numerical-Analysis
-Hello there! 👋 Welcome to the repository of my endeavors in the realm of Numerical Analysis. Here, you'll find various code files encapsulating my journey through the IPE-312 Numerical Analysis Lab. I've ventured into various topics, all coded using the versatile MATLAB, and to make the concepts crystal clear, I've provided MATLAB scripts for explanations. Let's dive into the specifics:
+Hello there! 👋 Welcome to the repository of Numerical Analysis. Here, you'll find various code files encapsulating my journey through the IPE-312 Numerical Analysis Lab. I've ventured into various topics, all coded using the versatile MATLAB, and to make the concepts crystal clear, I've provided MATLAB scripts for explanations. Let's dive into the specifics:
 
 ## 1. Roots of Equation
 
